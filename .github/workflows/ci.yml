@@ -8,7 +8,7 @@ jobs:
       - uses: actions/checkout@v2
       - name: Build the site in the jekyll/builder container
         run: |
-          mv ./_obsidian_value/_posts/*.md ./_posts
+          ln -s ./test/* ./_posts
           export JEKYLL_VERSION=3.8
           docker run \
           -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
