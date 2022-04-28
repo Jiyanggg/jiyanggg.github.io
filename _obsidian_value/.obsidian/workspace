@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20220427.md",
+            "file": "_发布/Test.md.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20220427.md",
+                "file": "_发布/Test.md.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,6 +113,7 @@
   },
   "active": "2d7251a065067aa5",
   "lastOpenFiles": [
+    "_发布/Test.md.md",
     "Day Planners/Day Planner-20220427.md",
     "Daily/2022-04-27.md",
     "Daily/2022-04-26.md",
@@ -121,7 +122,6 @@
     "Excalidraw/微信收藏文章流程流.excalidraw.md",
     "Hypothes/支持国产！聊聊我用的API管理工具.md",
     "Hypothes/一日一技：协程与多进程的完美结合.md",
-    "Hypothes/Python 中最强大的错误重试库.md",
-    "Hypothes/用 Python 提取 PDF 文本的简单方法.md"
+    "Hypothes/Python 中最强大的错误重试库.md"
   ]
 }
