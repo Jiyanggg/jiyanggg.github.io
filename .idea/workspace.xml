@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="095baab4-f74b-477a-a58e-c5bc9e0aa32f" name="Default Changelist" comment="" />
+    <list default="true" id="095baab4-f74b-477a-a58e-c5bc9e0aa32f" name="Default Changelist" comment=":hammer: test add posts dir">
+      <change afterPath="$PROJECT_DIR$/test/2022-04-27-test-world.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/ci.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -35,6 +39,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Documents\jiyanggg.github.io\test" />
+      <recent name="C:\Users\admin\Documents\jiyanggg.github.io" />
+      <recent name="C:\Users\admin\Documents\jiyanggg.github.io\_obsidian_value\_posts" />
+      <recent name="C:\Users\admin\Documents\jiyanggg.github.io\_obsidian_value" />
       <recent name="D:\python-project\jiyanggg.github.io\assets\img" />
     </key>
   </component>
@@ -64,6 +72,7 @@
       <workItem from="1651105165327" duration="556000" />
       <workItem from="1651105971663" duration="102000" />
       <workItem from="1651106083821" duration="205000" />
+      <workItem from="1651106343426" duration="9815000" />
     </task>
     <task id="LOCAL-00001" summary=":hammer: post 2022-04-27-hello-world.md">
       <created>1651072355653</created>
@@ -93,7 +102,91 @@
       <option name="project" value="LOCAL" />
       <updated>1651106184794</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=":hammer: add obsidian value">
+      <created>1651106468641</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1651106468641</updated>
+    </task>
+    <task id="LOCAL-00006" summary=":hammer: test add posts dir">
+      <created>1651111690319</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1651111690319</updated>
+    </task>
+    <task id="LOCAL-00007" summary=":hammer: test add posts dir">
+      <created>1651111811210</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1651111811210</updated>
+    </task>
+    <task id="LOCAL-00008" summary=":hammer: test add posts dir">
+      <created>1651112326828</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1651112326828</updated>
+    </task>
+    <task id="LOCAL-00009" summary=":hammer: test add posts dir">
+      <created>1651114366979</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1651114366979</updated>
+    </task>
+    <task id="LOCAL-00010" summary=":hammer: test add posts dir">
+      <created>1651114991530</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1651114991530</updated>
+    </task>
+    <task id="LOCAL-00011" summary=":hammer: test add posts dir">
+      <created>1651115767712</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1651115767712</updated>
+    </task>
+    <task id="LOCAL-00012" summary=":hammer: test add posts dir">
+      <created>1651115926632</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1651115926633</updated>
+    </task>
+    <task id="LOCAL-00013" summary=":hammer: test add posts dir">
+      <created>1651116407518</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1651116407518</updated>
+    </task>
+    <task id="LOCAL-00014" summary=":hammer: test add posts dir">
+      <created>1651116747161</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1651116747161</updated>
+    </task>
+    <task id="LOCAL-00015" summary=":hammer: test add posts dir">
+      <created>1651117017742</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1651117017742</updated>
+    </task>
+    <task id="LOCAL-00016" summary=":hammer: test add posts dir">
+      <created>1651117214588</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1651117214588</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,25 +196,27 @@
     <MESSAGE value=":hammer: post 2022-04-27-hello-world.md" />
     <MESSAGE value=":hammer: fix about me &amp; navbar" />
     <MESSAGE value=":hammer: modify index" />
-    <option name="LAST_COMMIT_MESSAGE" value=":hammer: modify index" />
+    <MESSAGE value=":hammer: add obsidian value" />
+    <MESSAGE value=":hammer: test add posts dir" />
+    <option name="LAST_COMMIT_MESSAGE" value=":hammer: test add posts dir" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="489" y="39" key="CommitChangelistDialog2" timestamp="1651106181893">
+    <state x="614" y="52" key="CommitChangelistDialog2" timestamp="1651119431859">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="489" y="39" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1651106181893" />
-    <state x="184" y="91" key="DiffContextDialog" timestamp="1651106124879">
+    <state x="614" y="52" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1651119431859" />
+    <state x="184" y="91" key="DiffContextDialog" timestamp="1651114931037">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="184" y="91" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1651106124879" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1651106186180">
+    <state x="184" y="91" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1651114931037" />
+    <state x="686" y="92" width="1016" height="627" key="Vcs.Push.Dialog.v2" timestamp="1651119466428">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1651106186180" />
-    <state x="493" y="151" width="933" height="738" key="find.popup" timestamp="1651073322224">
+    <state x="686" y="92" width="1016" height="627" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1651119466428" />
+    <state x="493" y="151" width="933" height="738" key="find.popup" timestamp="1651113330551">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="493" y="151" width="933" height="738" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1651073322224" />
+    <state x="493" y="151" width="933" height="738" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1651113330551" />
     <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1651071626860">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
