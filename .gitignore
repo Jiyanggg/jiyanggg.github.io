@@ -13,4 +13,6 @@ Gemfile.lock
 beautiful-jekyll-theme-*.gem
 
 /obsidian/*
+!/obsidian/_posts
+/obsidian/_posts/*
 !/obsidian/_posts/*.md
