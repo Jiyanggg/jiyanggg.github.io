@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="095baab4-f74b-477a-a58e-c5bc9e0aa32f" name="Default Changelist" comment=":hammer: modify index">
-      <change afterPath="$PROJECT_DIR$/obsidian_value" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obsidian_value/obsidian_value" afterDir="false" />
-    </list>
+    <list default="true" id="095baab4-f74b-477a-a58e-c5bc9e0aa32f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +63,7 @@
       <workItem from="1651071121841" duration="2622000" />
       <workItem from="1651105165327" duration="556000" />
       <workItem from="1651105971663" duration="102000" />
+      <workItem from="1651106083821" duration="205000" />
     </task>
     <task id="LOCAL-00001" summary=":hammer: post 2022-04-27-hello-world.md">
       <created>1651072355653</created>
@@ -88,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651073737019</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=":hammer: modify index">
+      <created>1651106184794</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651106184794</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,18 +106,18 @@
     <option name="LAST_COMMIT_MESSAGE" value=":hammer: modify index" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="489" y="39" key="CommitChangelistDialog2" timestamp="1651106145375">
+    <state x="489" y="39" key="CommitChangelistDialog2" timestamp="1651106181893">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="489" y="39" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1651106145375" />
+    <state x="489" y="39" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1651106181893" />
     <state x="184" y="91" key="DiffContextDialog" timestamp="1651106124879">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="184" y="91" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1651106124879" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1651073738143">
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1651106186180">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1651073738143" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1651106186180" />
     <state x="493" y="151" width="933" height="738" key="find.popup" timestamp="1651073322224">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
