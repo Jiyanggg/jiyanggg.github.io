@@ -16,3 +16,5 @@ beautiful-jekyll-theme-*.gem
 !/obsidian/_posts
 /obsidian/_posts/*
 !/obsidian/_posts/*.md
+
+.idea
