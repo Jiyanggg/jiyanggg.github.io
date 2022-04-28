@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="095baab4-f74b-477a-a58e-c5bc9e0aa32f" name="Default Changelist" comment=":hammer: modify index">
+      <change afterPath="$PROJECT_DIR$/obsidian_value" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obsidian_value/obsidian_value" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\python-project\jiyanggg.github.io\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="28Ny1Azkpy1Qes0YPiIMzrP27LG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python-project\jiyanggg.github.io\assets\img" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="095baab4-f74b-477a-a58e-c5bc9e0aa32f" name="Default Changelist" comment="" />
+      <created>1651071120415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651071120415</updated>
+      <workItem from="1651071121841" duration="2622000" />
+      <workItem from="1651105165327" duration="556000" />
+      <workItem from="1651105971663" duration="102000" />
+    </task>
+    <task id="LOCAL-00001" summary=":hammer: post 2022-04-27-hello-world.md">
+      <created>1651072355653</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651072355653</updated>
+    </task>
+    <task id="LOCAL-00002" summary=":hammer: fix about me &amp; navbar">
+      <created>1651073386773</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651073386773</updated>
+    </task>
+    <task id="LOCAL-00003" summary=":hammer: modify index">
+      <created>1651073737019</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651073737019</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=":hammer: post 2022-04-27-hello-world.md" />
+    <MESSAGE value=":hammer: fix about me &amp; navbar" />
+    <MESSAGE value=":hammer: modify index" />
+    <option name="LAST_COMMIT_MESSAGE" value=":hammer: modify index" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="489" y="39" key="CommitChangelistDialog2" timestamp="1651106145375">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="489" y="39" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1651106145375" />
+    <state x="184" y="91" key="DiffContextDialog" timestamp="1651106124879">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="91" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1651106124879" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1651073738143">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1651073738143" />
+    <state x="493" y="151" width="933" height="738" key="find.popup" timestamp="1651073322224">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="493" y="151" width="933" height="738" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1651073322224" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1651071626860">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1651071626860" />
+  </component>
+</project>
