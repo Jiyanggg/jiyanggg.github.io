@@ -2,7 +2,7 @@
   "commitMessage": "obsidian vault backup: {{date}}",
   "autoCommitMessage": "obsidian vault backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 1,
+  "autoSaveInterval": 0.1,
   "autoPullInterval": 5,
   "autoPullOnBoot": false,
   "disablePush": false,
@@ -14,7 +14,7 @@
   "syncMethod": "merge",
   "gitPath": "",
   "customMessageOnAutoBackup": false,
-  "autoBackupAfterFileChange": false,
+  "autoBackupAfterFileChange": true,
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": ""
