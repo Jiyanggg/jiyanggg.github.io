@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="095baab4-f74b-477a-a58e-c5bc9e0aa32f" name="Default Changelist" comment=":hammer: test add posts dir">
-      <change afterPath="$PROJECT_DIR$/obsidian/_posts/2022-04-27-test-1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obsidian/data/2022-04-27-test-2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obsidian/_posts/2022-04-27-test-world.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/obsidian/data" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/obsidian" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -39,11 +39,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\admin\Documents\jiyanggg.github.io\obsidian\data" />
       <recent name="C:\Users\admin\Documents\jiyanggg.github.io\obsidian" />
+      <recent name="C:\Users\admin\Documents\jiyanggg.github.io\obsidian\_posts" />
+      <recent name="C:\Users\admin\Documents\jiyanggg.github.io\obsidian\data" />
       <recent name="C:\Users\admin\Documents\jiyanggg.github.io\test" />
       <recent name="C:\Users\admin\Documents\jiyanggg.github.io" />
-      <recent name="C:\Users\admin\Documents\jiyanggg.github.io\_obsidian_value\_posts" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -72,7 +72,7 @@
       <workItem from="1651105165327" duration="556000" />
       <workItem from="1651105971663" duration="102000" />
       <workItem from="1651106083821" duration="205000" />
-      <workItem from="1651106343426" duration="10639000" />
+      <workItem from="1651106343426" duration="13922000" />
     </task>
     <task id="LOCAL-00001" summary=":hammer: post 2022-04-27-hello-world.md">
       <created>1651072355653</created>
@@ -207,7 +207,35 @@
       <option name="project" value="LOCAL" />
       <updated>1651119636868</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary=":hammer: test add posts dir">
+      <created>1651120256602</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1651120256602</updated>
+    </task>
+    <task id="LOCAL-00021" summary=":hammer: test add posts dir">
+      <created>1651120856690</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1651120856690</updated>
+    </task>
+    <task id="LOCAL-00022" summary=":hammer: delete obsidian">
+      <created>1651122726846</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1651122726846</updated>
+    </task>
+    <task id="LOCAL-00023" summary=":hammer: test add posts dir">
+      <created>1651122758633</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1651122758633</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,29 +246,38 @@
     <MESSAGE value=":hammer: fix about me &amp; navbar" />
     <MESSAGE value=":hammer: modify index" />
     <MESSAGE value=":hammer: add obsidian value" />
+    <MESSAGE value=":hammer: delete obsidian" />
     <MESSAGE value=":hammer: test add posts dir" />
     <option name="LAST_COMMIT_MESSAGE" value=":hammer: test add posts dir" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="614" y="52" key="CommitChangelistDialog2" timestamp="1651119627634">
+    <state x="189" y="309" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1651123280993">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="614" y="52" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1651119627634" />
-    <state x="184" y="91" key="DiffContextDialog" timestamp="1651114931037">
+    <state x="189" y="309" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1651123280993" />
+    <state x="614" y="52" key="CommitChangelistDialog2" timestamp="1651123568741">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="184" y="91" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1651114931037" />
-    <state x="686" y="92" width="1016" height="627" key="Vcs.Push.Dialog.v2" timestamp="1651119638076">
+    <state x="614" y="52" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1651123568741" />
+    <state x="184" y="91" key="DiffContextDialog" timestamp="1651122712852">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="686" y="92" width="1016" height="627" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1651119638076" />
-    <state x="493" y="151" width="933" height="738" key="find.popup" timestamp="1651120033569">
+    <state x="184" y="91" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1651122712852" />
+    <state x="694" y="157" key="VCS.ChangeListViewerDialog" timestamp="1651122572459">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="493" y="151" width="933" height="738" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1651120033569" />
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1651071626860">
+    <state x="694" y="157" key="VCS.ChangeListViewerDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1651122572459" />
+    <state x="686" y="92" width="1016" height="627" key="Vcs.Push.Dialog.v2" timestamp="1651123570644">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1651071626860" />
+    <state x="686" y="92" width="1016" height="627" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1651123570644" />
+    <state x="493" y="151" width="933" height="738" key="find.popup" timestamp="1651120816963">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="493" y="151" width="933" height="738" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1651120816963" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1651122142651">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1651122142651" />
   </component>
 </project>
