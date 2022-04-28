@@ -16,10 +16,13 @@ tags: [Obsidian]
 
 ## 更改博客目录结构 & .gitgnore 文件
 
-1. Fork & Clone 到本地计算机，对 index.html 等个性化文件及配置进行修改。
-2. 在根目录下新建 `Obsidian` 文件夹作为我们将要下载安装的笔记软件 `Obsidian` 的 `WorkSpace` 
-3. 然后在 Obsidian 目录下建立子文件 `_post`
-4. 修改根目录中的 .gitignore 文件，添加以下命令（即仅发布 /obsidian/_posts/*.md 至 Github Page，很关键!）
+1、 Fork & Clone 到本地计算机，对 index.html 等个性化文件及配置进行修改。
+
+2、 在根目录下新建 `Obsidian` 文件夹作为我们将要下载安装的笔记软件 `Obsidian` 的 `WorkSpace` 
+
+3、 然后在 `Obsidian` 目录下建立子文件 `_post`
+
+4、 修改根目录中的 `.gitignore` 文件，添加以下命令（即仅发布 /obsidian/_posts/*.md 至 Github Page，很关键!）
 
 ```
 /obsidian/*  
@@ -63,7 +66,7 @@ NOTE: 如果你的 Github 博客项目是 Private 的，你需要在 Github Sett
 
 ## 整理发布笔记
 
-将你想要发布的文章放到 `Obsidian/_posts` 下，在 Obsidian 客户端 `Ctrl + P` -> `Git Commite` -> `Git Push`，接着你会发现你的 Github Page 出现你新发布的文章
+将你想要发布的文章放到 `Obsidian/_posts` 下，在 Obsidian 客户端 `Ctrl + P` -> `Git Commite all changes` -> `Ctrl + P` -> `Git Push`，接着你会发现你的 Github Page 出现你新发布的文章
 
   
 
