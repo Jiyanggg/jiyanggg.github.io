@@ -20,7 +20,7 @@ tags: [Obsidian]
 
 2、 在根目录下新建 `obsidian` 文件夹作为我们将要下载安装的笔记软件 `Obsidian` 的 `WorkSpace` 
 
-3、 然后在 `obsidian` 目录下建立子文件 `_post`
+3、 然后在 `obsidian` 目录下建立子文件 `_posts`
 
 4、 修改根目录中的 `.gitignore` 文件，添加以下命令（即仅发布 /obsidian/_posts/*.md 至 Github Page，很关键!）
 
@@ -55,12 +55,12 @@ tags: [Obsidian]
 
 ## 安装 Obsidian 
 
-去 [官网](https://obsidian.md/download) 下载安装 `Obsidian`，然后在其第三方插件中下载 Obsidian Git 插件。在客户端左侧选择打开其他库，选择上一步创建的 `obsidian` 文件夹作为 `WorkSpace`
+去 [官网](https://obsidian.md/download) 下载安装 `Obsidian`。安装完成后在客户端左侧选择打开其他库，选择上一步创建的 `obsidian` 文件夹作为 `WorkSpace`
 
 
 ## 安装 Obsidian Git 插件
 
-在 `Obsidian` 客户端右侧点击设置，然后第三方插件 `Obsidian Git`，配置你想要的自动 Push & Pull 频率（我的选择是 10 分钟自动 Pull，手动 Push）
+在 `Obsidian` 客户端左侧点击设置，然后第三方插件 `Obsidian Git`，配置你想要的自动 Push & Pull 频率（我的选择是 10 分钟自动 Pull，手动 Push）
 
 NOTE: 如果你的 Github 博客项目是 Private 的，你需要在 Github Setting 配置本地电脑的 SSH Keys
 
