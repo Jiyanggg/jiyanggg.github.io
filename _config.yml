@@ -16,7 +16,7 @@ posts_dir: _obsidian_value/_posts
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Tags: "tags.html"
+  Tags: "tags"
   About Me: "aboutme"
   Github: "https://github.com/Jiyanggg"
 #  Resources:
