@@ -20,4 +20,8 @@ tags: [Obsidian, AutoHotKey]
 
 
 
-![很慢的 Gif 演示...](https://gitee.com/jiyangggg/upgit-assets/raw/master/2022/05/upgit-demo.gif)
+![很慢的 Gif 演示...](https://gitee.com/jiyangggg/upgit-assets/raw/master/2022/05/upgit-demo.png)
+
+> 额 好像不支持 Gif? Gif 还是放在静态 assets 下吧
+
+![git](/assets/img/upgit-demo.gif)
