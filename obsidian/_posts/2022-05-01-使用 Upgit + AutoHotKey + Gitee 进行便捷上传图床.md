@@ -5,7 +5,7 @@ subtitle: 发布文档编辑中插入图片的场景
 cover-img: /assets/img/moon.jpg  
 thumbnail-img: /assets/img/upgit.png  
 share-img: /assets/img/moon.jpg  
-tags: [Obsidian]  
+tags: [Obsidian, AutoHotKey] 
 ---  
 
 
