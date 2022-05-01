@@ -69,5 +69,3 @@ NOTE: 如果你的 Github 博客项目是 Private 的，你需要在 Github Sett
 将你想要发布的文章放到 `obsidian/_posts` 文件夹下，在 Obsidian 客户端 `Ctrl + P` -> `Git Commite all changes` -> `Ctrl + P` -> `Git Push`，接着你会发现你的 Github Page 出现你新发布的文章
 
   
-
-

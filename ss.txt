@@ -1,0 +1,15 @@
+branch = "main"
+# Get token from https://github.com/settings/tokens
+pat = "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"
+rename = "{year}/{month}/upgit_{year}{month}{day}_{unix_ts}{ext}"
+repo = "upgit-assets"
+username = "Jiyang"
+
+[replacements]
+"raw.githubusercontent.com" = "cdn.jsdelivr.net/gh"
+"/main" = "@main"
+
+[output-formats]
+"bbcode" = "[img]{url}/[/img]"
+"html" = '<img src="{url}"/>'
+"markdown-simple" = "![01|700]({url})"
